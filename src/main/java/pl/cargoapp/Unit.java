@@ -1,4 +1,4 @@
-package pl.testingproject;
+package pl.cargoapp;
 
 import java.util.ArrayList;
 import java.util.List;
